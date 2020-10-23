@@ -16,5 +16,5 @@ jobs:
          command: echo hello && echo world
          shell: bash.exe
       - run:
-         command: echo hello & echo world
+         command: echo Hola & echo guapeton
          shell: cmd.exe
